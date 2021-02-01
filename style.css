@@ -1,0 +1,40 @@
+img{
+  width:200px;
+  text-align:center;
+  
+}
+h1{
+    font-size: 40px;
+    font-family: 'Cinzel Decorative',cursive;
+  text-shadow:2px 2px #F8bbd0
+  
+    font-weight: 300;
+    text-decoration: underline;
+    text-align: center;
+    color: forestgreen;
+    
+}
+p{
+    color:black;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    font-family: 'Grenze Gotisch', cursive;
+    }
+body{
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+  text-align: center; 
+}
+
+.menu{
+  list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: floralwhite; 
+    
+}
+
+.link{
+    display: inline;
+}
